@@ -1,2 +1,0 @@
-# frontedx
-Fronted de Tesis 
